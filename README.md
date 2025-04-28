@@ -5,7 +5,7 @@ I'm a passionate developer with skills in **HTML**, **CSS**, **JavaScript**, and
 - 🌱 I’m always learning new technologies to improve my skills
 - 🛠️ Focused on **web development** and **problem-solving**
 - 💬 Feel free to ask me about **CSS layouts**, **responsive design**, or **C++ algorithms**
-- 📫 Reach me at: [kxrlkamau@gmail.com](mailto:kxrlkamau@gmail.com) (optional)
+- 📫 Reach me at: [kxrlkamau@gmail.com](mailto:kxrlkamau@gmail.com) 
 - ⚡ Fun fact: I love turning ideas into real, working projects!
 
 ## 🛠️ Languages and Tools:
